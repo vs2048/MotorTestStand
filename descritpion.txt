@@ -1,0 +1,1 @@
+This is a controller for a motor test stand. It uses a motor controller to modulate power to an electric motor. Speed is set using two buttons that increment or decrement the speed. The current status is displayed on a 2x16 lcd display.
